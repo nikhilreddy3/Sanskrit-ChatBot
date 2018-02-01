@@ -2,6 +2,6 @@ https://blogs.msdn.microsoft.com/uk_faculty_connection/2016/11/28/creating-my-fi
 
 https://github.com/Grungnie/microsoftbotframework
 
-https://github.com/michhar/pybotframework
+[Python library to use for creating endpoint to talk to endpoint of microsoft bot service channels](https://github.com/michhar/pybotframework)
 
 [MicrosoftBotFramework Documentation ReadTheDocs](http://microsoftbotframework.readthedocs.io/en/latest/)
